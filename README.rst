@@ -17,7 +17,7 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
 インストールと起動方法
 ======================
 
-リポジトリーからコードを取得し、その下にvenv環境を用意します。
+リポジトリーからコードを取得し、その下にvenv環境を用意します。::
 
     $ git clone https://github.com/nyaataco/norilog
     $ cd norilog
@@ -25,7 +25,7 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
     $ source venv/bin/activate
     (venv) $ pip install .
     (venv) $ norilog
-    
+
     * Running on http://127.0.0.1:8000/
 
 
