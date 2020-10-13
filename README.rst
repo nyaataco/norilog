@@ -25,7 +25,7 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
     $ source venv/bin/activate
     (venv) $ pip install .
     (venv) $ norilog
-     * Running on http://127.0.0.1:8000/
+    * Running on http://127.0.0.1:8000/
 
 
 開発手順
